@@ -1,4 +1,7 @@
 # Telegram-Soft
+![hero2-min](https://user-images.githubusercontent.com/94137664/165816523-cec523b8-abc6-4fd6-8d81-71d02fc624ba.png)
+
+
 ### Telegram-Soft - The best software for promotion in Telegram
 - This most powerful multifunctional tool for promoting in Тelegram will help you without any effort at all and just in a couple of days to collect desired audience and boost your own channel or group. 
 - And then advertise your ideas very effectively and with a big profit. 💰💰💰
@@ -29,6 +32,7 @@
 - TamTam: https://tt.me/telegram-soft
 - Twitter: https://twitter.com/Telegram_soft
 - YouTube: https://www.youtube.com/channel/UCMGDxx-lf9aFbnFujXKk2PQ/videos
+
 
 
 
