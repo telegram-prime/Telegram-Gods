@@ -1,39 +1,61 @@
-# Telegram-Soft
-![hero2-min](https://user-images.githubusercontent.com/94137664/165816523-cec523b8-abc6-4fd6-8d81-71d02fc624ba.png)
+# Telegram-Gods
 
 
-### Telegram-Soft - The best software for promotion in Telegram
+### Telegram-Gods - The best software for promotion in Telegram
 - This most powerful multifunctional tool for promoting in Тelegram will help you without any effort at all and just in a couple of days to collect desired audience and boost your own channel or group. 
 - And then advertise your ideas very effectively and with a big profit. 💰💰💰
+- Start promoting in telegrams now!
 
-## Here is the short list of Telegram-Soft's capabilities:
+
+## Screenshots:
+
+<img align="center" width="512" alt="TGG_Screen_001" src="https://user-images.githubusercontent.com/94137664/180645000-8a129a5c-f13b-4508-903f-be840a84c154.png">  <img align="center" width="512" alt="TGG_Screen_002" src="https://user-images.githubusercontent.com/94137664/180644995-aec1e24a-a38f-4dbc-8ed3-4335e919297f.png">
+
+<img align="center" width="512" alt="TGG_Screen_003" src="https://user-images.githubusercontent.com/94137664/180644991-1e3afaf3-31e6-43dc-9877-5efbc2b9449b.png">  <img align="center" width="512" alt="TGG_Screen_004" src="https://user-images.githubusercontent.com/94137664/180644987-fdf85963-75d2-46b7-b365-cdccb6712edd.png">
+
+## Here is the short list of Telegram-Gods's capabilities:
 
 - Auto-registration of accounts (multi-threaded).
+   *  (Register accounts using more than 12 SMS services in multiple streams)
 - Check mobile phone numbers if has the Telegram. 
+   *  With the help of a checker, you can check mobile phone numbers for their presence in the telegram, thereby further increasing your base.
 - Inviter by Id.
+   *  Collect an audience from any Telegram groups. Filter databases and get exclusively live target audience.
 - Mass Sending messages (PM and Groups).
+   *  You can do bulk mailings of your advertising messages in PMs to a previously collected audience, you can also send messages to chats.
 - Answering machine.
+   *  With the autoresponder running, your bots will answer incoming messages around the clock.
 - Parsing/Gathering only active audience.
+   *  Collect a live audience from any Telegram groups using the function of collecting chat users.
 - Parsing/Gathering audience within given GEO location.
+   *  Allows to gather Telegram users by scanning GEO location of any object (i.e. supermarket)
 - Invite referrals to bots.
+   *  Invite your accounts via the referral link to bots.
 - Group Inviter.
+   *  Add the collected target audience to your telegram groups (chats), filtering it by activity.
 - Cheat polls, post reactions and votes.
+   *  Participate in anonymous polls and put different reactions on posts in the channel.
 - Posts cloner.
+   *  Allows you to clone anyone's channel's posts.
 - Groups and channels cloner.
-- Software is autoupdated.
+   *  With additional module you can clone anyone's channel either exact or changing keywords to be unique.
+- Software is auto-updated.
+   *  Our team is constantly monitoring the market and Telegram source code updates and implementing new features to our software.
 - Multilingual support team.
+   *  We have multilingual support team who is ready to answer all your questions and help you 24/7.
+
+##
+##  Free Trial for 24 hours is available! Contact support via our website.
 
 
 ##  Contacts:
-- Wеb: https://telegram-soft.co
-   - 10% Discount Promo-Code: Wonder10 👈
-   - Free Trial period available! Contact support.
+- Wеb: https://telegram-gods.pro/ - EN Version
+- Wеb: https://telegram-gods.com/ - RU Version
+
 - Email: telegram-soft-sales[@]prоtonmail.cоm
 - TamTam: https://tt.me/telegram-soft
 - Twitter: https://twitter.com/Telegram_soft
 - YouTube: https://www.youtube.com/channel/UCMGDxx-lf9aFbnFujXKk2PQ/videos
-
-
 
 
 
