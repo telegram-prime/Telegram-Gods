@@ -53,7 +53,7 @@
 - Wеb: https://telegram-gods.com/ - RU Version
 
 - Email: telegram-soft-sales[@]prоtonmail.cоm
-- Telegram: https://t.me/TGG_Sales
+- Telegram: @TGG_Sales
 - Twitter: https://twitter.com/Telegram_soft
 - YouTube: https://www.youtube.com/channel/UCMGDxx-lf9aFbnFujXKk2PQ/videos
 
