@@ -4,6 +4,10 @@
 ### Telegram-Gods - The best software for promotion in Telegram
 - This most powerful multifunctional tool for promoting in Тelegram will help you without any effort at all and just in a couple of days to collect desired audience and boost your own channel or group. 
 - And then advertise your ideas very effectively and with a big profit. 💰💰💰
+- Software Works On Telegram Api. This is an exclusive advantage that competitors working through the web version cannot afford. What does it give?
+  * Lower Risk Of Account Ban: Android/iOS/Desktop apps connect to the telegram server via API, using them you become invisible.
+  * All Actions Happen Much Faster: API work does not require opening a browser, takes place in fractions of seconds and consumes tens of times less proxy traffic.
+- Includes Modules That Have No Analogues.
 - Start promoting in telegrams now!
 
 
