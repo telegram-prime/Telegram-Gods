@@ -1,5 +1,4 @@
-# Telegram-Gods 
-### (ex. Telegram-Soft)
+# Telegram-Gods      *(ex. Telegram-Soft)*
 
 
 ### Telegram-Gods - The best software for promotion in Telegram
