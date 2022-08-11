@@ -1,6 +1,6 @@
 # Telegram-Gods      *(ex. Telegram-Soft)*
 
- * Description also available in Russian. See [Telegram Gods Rus](https://github.com/naumova51/Telegram-Gods-RU)
+ * Description also available in Russian. See [Telegram Gods Rus](https://github.com/telegram-gods/Telegram-Gods-RU)
 
 ### Telegram-Gods - The best software for promotion in Telegram
 - This most powerful multifunctional tool for promoting in Тelegram will help you without any effort at all and just in a couple of days to collect desired audience and boost your own channel or group. 
