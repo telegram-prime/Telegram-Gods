@@ -1,7 +1,7 @@
 # Telegram-Gods  *(ex. Telegram-Soft)*
  
  * Description also avalable in Russian. See [Telegram Gods Rus](https://github.com/telegram-gods/Telegram-Gods-RU)
- * Description also available in Chineese. See [Telegram Gods Eng](https://github.com/telegram-gods/Telegram-Gods-CN)
+ * Description also available in Chineese. See [Telegram Gods CN](https://github.com/telegram-gods/Telegram-Gods-CN)
 
 
 ### Telegram-Gods - The best software for promotion in Telegram
