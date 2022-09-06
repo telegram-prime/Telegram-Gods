@@ -63,10 +63,15 @@
 
 - Email: telegram-soft-sales[@]prоtonmail.cоm
 - Telegram: @TGG_Sales
-- Twitter: https://twitter.com/Telegram_soft
+- Twitter: https://twitter.com/TelegramGods
 - YouTube: https://www.youtube.com/channel/UCMGDxx-lf9aFbnFujXKk2PQ/videos
 
-
+<div>
+	<a class="donate-with-crypto"
+	href="https://commerce.coinbase.com/checkout/229bd22f-06f8-4bef-bab1-dd6b9d1af051">
+	Donate Us.
+	</a>
+</div>
 
 
 
