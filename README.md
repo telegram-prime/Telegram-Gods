@@ -69,5 +69,6 @@
 
 ## Donations:
 * [Buy us a coffee :)](https://commerce.coinbase.com/checkout/229bd22f-06f8-4bef-bab1-dd6b9d1af051)
+* Thank you!
 
 
