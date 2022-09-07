@@ -1,6 +1,6 @@
 # Telegram-Gods  *(ex. Telegram-Soft)*
  
- * Description also avalable in Russian. See [Telegram Gods Rus](https://github.com/telegram-gods/Telegram-Gods-RU)
+ * Описание программы так же доступно на русском языке. См. [Telegram Gods Rus](https://github.com/telegram-gods/Telegram-Gods-RU)
  * Description also available in Chineese. See [Telegram Gods CN](https://github.com/telegram-gods/Telegram-Gods-CN)
 
 
