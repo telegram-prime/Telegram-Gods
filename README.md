@@ -68,7 +68,9 @@
 
 
 ## Donations:
-* [Buy us a coffee :)](https://commerce.coinbase.com/checkout/229bd22f-06f8-4bef-bab1-dd6b9d1af051)
+* Buy us a coffee :)
+* [Donate with stable coins](https://commerce.coinbase.com/checkout/229bd22f-06f8-4bef-bab1-dd6b9d1af051)
+* [Donate with altcoins](https://nowpayments.io/embeds/donation-widget?api_key=884SNRK-EG3MSHK-N18SNXE-DTWP42C)
 * Thank you!
 
 
